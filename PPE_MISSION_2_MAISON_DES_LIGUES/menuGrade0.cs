@@ -73,5 +73,12 @@ namespace PPE_MISSION_2_MAISON_DES_LIGUES
                 MessageBox.Show("Une erreur est survenue");
             }
         }
+
+        private void buttondeco2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            conexion connexion1 = new conexion();
+            connexion1.Show();
+        }
     }
 }
