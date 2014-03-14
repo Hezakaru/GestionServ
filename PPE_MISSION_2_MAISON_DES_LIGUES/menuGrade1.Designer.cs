@@ -45,7 +45,6 @@
             this.m2l_Marco_SalimDataSet3 = new PPE_MISSION_2_MAISON_DES_LIGUES.m2l_Marco_SalimDataSet3();
             this.etatBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.etatTableAdapter = new PPE_MISSION_2_MAISON_DES_LIGUES.m2l_Marco_SalimDataSet3TableAdapters.etatTableAdapter();
-            this.bouttonDeco = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.m2l_Marco_SalimDataSet3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.etatBindingSource)).BeginInit();
@@ -53,7 +52,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(126, 46);
+            this.button1.Location = new System.Drawing.Point(127, 65);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(131, 23);
             this.button1.TabIndex = 0;
@@ -63,11 +62,11 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(101, 75);
+            this.button2.Location = new System.Drawing.Point(99, 111);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(193, 23);
             this.button2.TabIndex = 1;
-            this.button2.Text = "Consulter demande de services";
+            this.button2.Text = "Consuluter demande de services";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -185,22 +184,11 @@
             // 
             this.etatTableAdapter.ClearBeforeFill = true;
             // 
-            // bouttonDeco
-            // 
-            this.bouttonDeco.Location = new System.Drawing.Point(126, 104);
-            this.bouttonDeco.Name = "bouttonDeco";
-            this.bouttonDeco.Size = new System.Drawing.Size(131, 23);
-            this.bouttonDeco.TabIndex = 4;
-            this.bouttonDeco.Text = "Deconnexion";
-            this.bouttonDeco.UseVisualStyleBackColor = true;
-            this.bouttonDeco.Click += new System.EventHandler(this.bouttonDeco_Click);
-            // 
             // menuGrade1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(425, 548);
-            this.Controls.Add(this.bouttonDeco);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
@@ -235,6 +223,5 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn idAdherent;
         private System.Windows.Forms.DataGridViewTextBoxColumn idServiceDemande;
         private System.Windows.Forms.DataGridViewTextBoxColumn idetat;
-        private System.Windows.Forms.Button bouttonDeco;
     }
 }

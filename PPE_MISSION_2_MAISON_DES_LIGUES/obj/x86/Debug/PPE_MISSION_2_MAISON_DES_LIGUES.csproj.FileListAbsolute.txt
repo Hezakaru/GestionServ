@@ -1,16 +1,3 @@
 C:\Users\jordan\Desktop\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\PPE_MISSION_2_MAISON_DES_LIGUES\bin\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.exe.config
 C:\Users\jordan\Desktop\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.exe
 C:\Users\jordan\Desktop\mission5IncidentAmelioration\ressources\PPE_MISSION_2_MAISON_DES_LIGUES\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.pdb
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\bin\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.exe.config
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.exe
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.pdb
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\bin\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.exe
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\bin\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.pdb
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.conexion.resources
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.erreurAuthen.resources
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.Facture.resources
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.FormulaireModif.resources
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.menuGrade0.resources
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.menuGrade1.resources
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.Properties.Resources.resources
-C:\Users\Sio2\Documents\GitHub\GestionServ\PPE_MISSION_2_MAISON_DES_LIGUES\obj\x86\Debug\PPE_MISSION_2_MAISON_DES_LIGUES.csproj.GenerateResource.Cache

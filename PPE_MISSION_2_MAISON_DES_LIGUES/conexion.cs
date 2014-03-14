@@ -29,18 +29,13 @@ namespace PPE_MISSION_2_MAISON_DES_LIGUES
                     // MENU RESPONSABLE
                     menuGrade1 menu1 = new menuGrade1();
                     menu1.Show();
-                    this.Hide();
-                    
-                    
                 }
                 else
                 {
                     // MENU UTILISATEUR
                     menuGrade0 menu0 = new menuGrade0(id);
                     menu0.Show();
-                    this.Hide();
                 }
-                
             }
             else
             {
@@ -53,7 +48,7 @@ namespace PPE_MISSION_2_MAISON_DES_LIGUES
 
         private void conexion_Load(object sender, EventArgs e)
         {
-          
+
         }        
     }
 }

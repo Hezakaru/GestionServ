@@ -50,14 +50,5 @@ namespace PPE_MISSION_2_MAISON_DES_LIGUES
                 monForm.Show();
             }
         }
-
-        private void bouttonDeco_Click(object sender, EventArgs e)
-        {
-            conexion connexion1 = new conexion();
-            connexion1.Show();
-            this.Close();
-        }
-
-     
     }
 }
